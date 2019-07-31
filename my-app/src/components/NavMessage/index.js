@@ -1,8 +1,4 @@
 import React, { Component } from "react";
 import "./style.css";
 
-class NavMessage extends Component {
-  
-}
-
-export default NavMessage;
+// Here is where the nav message will show the user how they did in the game

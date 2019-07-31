@@ -1,8 +1,5 @@
 import React from "react";
 import "./style.css";
 
-function Container(props) {
-  return <main className="container">{props.children}</main>;
-}
+// This is where the function for the container will go that handles the props for all of the children of it as well
 
-export default Container;

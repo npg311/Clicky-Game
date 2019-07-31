@@ -1,13 +1,3 @@
-import React, { Component } from "react";
-import Nav from "../Nav";
-import Header from "../Header";
-import Container from "../Container";
-import ClickItem from "../ClickItem";
-import Footer from "../Footer";
-import data from "../../data.json";
+// This index is for nesting all of the games components to import them and return or export the game functions
 
-class Game extends Component {
- 
-}
 
-export default Game;
